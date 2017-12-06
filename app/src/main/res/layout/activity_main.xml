@@ -69,7 +69,7 @@
                 android:layout_marginRight="24dp"
                 android:fontFamily="sans-serif-medium"
                 android:onClick="minusOneForTeamA"
-                android:text="Faul"
+                android:text="Foul"
                 android:textAllCaps="true"
                 android:textColor="@color/textColorPrimaryDark" />
 
@@ -146,7 +146,7 @@
                 android:layout_marginRight="24dp"
                 android:fontFamily="sans-serif-medium"
                 android:onClick="minusOneForTeamB"
-                android:text="Faul"
+                android:text="Foul"
                 android:textAllCaps="true"
                 android:textColor="@color/textColorPrimaryDark" />
 
